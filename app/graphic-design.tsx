@@ -16,21 +16,21 @@ const GraphicDesign = () => {
         posts, we&apos;ve got you covered.
       </p>
       <div className="items-center md:flex justify-center md:mx-auto md:space-x-10">
-      <motion.div
+      {/* <motion.div
             initial={{ y: 100, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             className="px-10 md:px-0"
           >
            <ThreeDCardExample />
-            </motion.div>
+            </motion.div> */}
 
-            <motion.div
+            {/* <motion.div
             initial={{ y: 100, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             className="px-10 md:px-0"
           >
            <EvervaultCardSnippet />
-            </motion.div>
+            </motion.div> */}
 
       </div>
 
